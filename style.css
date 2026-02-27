@@ -11,3 +11,19 @@ nav {
     margin-top: 40px;
 }
 
+nav a {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 14px;
+    color: #c6a85b;
+    text-transform: uppercase;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
+
+a:visited {
+    text-decoration: underline;
+    color: #9aa0a6;
+}

@@ -27,3 +27,13 @@ a:visited {
     text-decoration: underline;
     color: #9aa0a6;
 }
+
+h1 {
+    font-family: "Cormorant Garmond";
+    font-size: 64px;
+    color: #c6a85b;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
